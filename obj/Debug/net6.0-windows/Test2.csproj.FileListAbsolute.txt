@@ -1,0 +1,17 @@
+C:\Users\Jafet\source\repos\Test2\bin\Debug\net6.0-windows\Test2.exe
+C:\Users\Jafet\source\repos\Test2\bin\Debug\net6.0-windows\Test2.deps.json
+C:\Users\Jafet\source\repos\Test2\bin\Debug\net6.0-windows\Test2.runtimeconfig.json
+C:\Users\Jafet\source\repos\Test2\bin\Debug\net6.0-windows\Test2.dll
+C:\Users\Jafet\source\repos\Test2\bin\Debug\net6.0-windows\Test2.pdb
+C:\Users\Jafet\source\repos\Test2\obj\Debug\net6.0-windows\Test2.csproj.AssemblyReference.cache
+C:\Users\Jafet\source\repos\Test2\obj\Debug\net6.0-windows\Test2.Form1.resources
+C:\Users\Jafet\source\repos\Test2\obj\Debug\net6.0-windows\Test2.csproj.GenerateResource.cache
+C:\Users\Jafet\source\repos\Test2\obj\Debug\net6.0-windows\Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jafet\source\repos\Test2\obj\Debug\net6.0-windows\Test2.AssemblyInfoInputs.cache
+C:\Users\Jafet\source\repos\Test2\obj\Debug\net6.0-windows\Test2.AssemblyInfo.cs
+C:\Users\Jafet\source\repos\Test2\obj\Debug\net6.0-windows\Test2.csproj.CoreCompileInputs.cache
+C:\Users\Jafet\source\repos\Test2\obj\Debug\net6.0-windows\Test2.dll
+C:\Users\Jafet\source\repos\Test2\obj\Debug\net6.0-windows\refint\Test2.dll
+C:\Users\Jafet\source\repos\Test2\obj\Debug\net6.0-windows\Test2.pdb
+C:\Users\Jafet\source\repos\Test2\obj\Debug\net6.0-windows\Test2.genruntimeconfig.cache
+C:\Users\Jafet\source\repos\Test2\obj\Debug\net6.0-windows\ref\Test2.dll
